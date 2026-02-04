@@ -9,6 +9,8 @@ This tool performs a TCP connect scan and classifies ports as:
 
 It also supports optional **banner grabbing** and basic **service detection**.
 
+![imagealt](https://github.com/emptyMemoryy/TCPFastScanner/blob/main/TCPFastScanner/TCPFastScannerTest.png?raw=true)
+
 ---
 
 ## Features
